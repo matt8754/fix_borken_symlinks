@@ -1,0 +1,3 @@
+org-elga-prd-rhel6-core-rep-rhel6-vmware-tools-latest
+org-elga-Red_Hat_Enterprise_Linux_Server-Red_Hat_Enterprise_Linux_7_Server_-_Optional_RPMs_x86_64_7Server
+org-elga-Red_Hat_Enterprise_Linux_Server-Red_Hat_Enterprise_Linux_7_Server_-_Supplementary_RPMs_x86_64_7Server
